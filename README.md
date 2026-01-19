@@ -89,25 +89,25 @@
 <tr>
 <td align="center" width="150">
 <a href="https://www.linkedin.com/in/muhammad-ibrahim-ayub/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/><br/>LinkedIn
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/><br/>
 </a>
 </td>
 
 <td align="center" width="150">
 <a href="https://www.instagram.com/ibr_ahim_54/">
-<img src="https://skillicons.dev/icons?i=instagram" width="45"/><br/>Instagram
+<img src="https://skillicons.dev/icons?i=instagram" width="45"/><br/>
 </a>
 </td>
 
 <td align="center" width="150">
 <a href="mailto:ibrahimayub2418@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/><br/>Email
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/><br/>
 </a>
 </td>
 
 <td align="center" width="150">
 <a href="https://www.facebook.com/profile.php?id=100077727872198">
-<img src="https://img.icons8.com/color/48/facebook-new.png" width="45"/><br/>Facebook
+<img src="https://img.icons8.com/color/48/facebook-new.png" width="45"/><br/>
 </a>
 </td>
 </tr>
