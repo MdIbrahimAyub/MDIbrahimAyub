@@ -43,21 +43,35 @@
 
 <tr>
 <td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br/>Next.js
+</td>
+<td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br/>Tailwind CSS
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=vite" width="50"/><br/>Vite
 </td>
 <td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=supabase" width="50"/><br/>Supabase
+</td>
+</tr>
+
+<tr>
+<td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=firebase" width="50"/><br/>Firebase
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=git" width="50"/><br/>Git
 </td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br/>GitHub
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vercel" width="50"/><br/>Vercel
+</td>
 </tr>
 </table>
 
-<hr/>
 
 <!-- ===================== GITHUB STATS ===================== -->
 <h2>📊 GitHub Stats</h2>
