@@ -65,7 +65,7 @@ const ibrahim = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="/>
+  <img height="180em" src="Screenshot 2026-01-19 212228.png"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDIbrahimAyub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6"/>
 </div>
 
