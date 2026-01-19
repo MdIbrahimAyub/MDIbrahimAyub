@@ -64,10 +64,17 @@ const ibrahim = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="Screenshot 2026-01-19 212228.png"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDIbrahimAyub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6"/>
-</div>
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MDIbrahimAyub&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
