@@ -78,7 +78,7 @@ const ibrahim = {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MDIbrahimAyub&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="[https://github-profile-trophy.vercel.app/?username=MDIbrahimAyub&theme=algolia&no-frame=true&no-bg=true&row=1&column=7](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)" alt="GitHub Trophies" />
 </div>
 
 ---
