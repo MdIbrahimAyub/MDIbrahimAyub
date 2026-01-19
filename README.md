@@ -67,10 +67,6 @@ const ibrahim = {
 ## 📊 GitHub Analytics
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MDIbrahimAyub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDIbrahimAyub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6"/> </div> <div align="center"> <img src="https://streak-stats.demolab.com?user=MDIbrahimAyub&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" /> </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MDIbrahimAyub&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
-</div>
-
 ---
 
 ## 🏆 GitHub Achievements
