@@ -1,135 +1,116 @@
-<!-- ===================== HEADER ===================== -->
-<h1 align="center">Hi 👋, I'm Muhammad Ibrahim</h1>
-<h3 align="center">Frontend Developer • React • Tailwind • Vite</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MDIbrahimAyub&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+# Muhammad Ibrahim
 
-<p align="center">
-  Passionate about building modern, clean, and responsive web interfaces 🚀
-</p>
+### Frontend Developer | React Specialist | UI/UX Enthusiast
 
-<hr/>
+[![Profile Views](https://komarev.com/ghpvc/?username=MDIbrahimAyub&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/MDIbrahimAyub)
 
-<!-- ===================== ABOUT ===================== -->
-<h2>✨ About Me</h2>
+*Building elegant, performant web experiences with modern technologies*
 
-- 🌱 Learning **Vite, Tailwind CSS & React.js**
-- 👨‍💻 Portfolio: <a href="https://github.com/MDIbrahimAyub">github.com/MDIbrahimAyub</a>
-- 📫 Email: <strong>ibrahimayub2418@gmail.com</strong>
-- ⚡ Love creating aesthetic UI with clean code
+---
 
-<hr/>
+</div>
 
-<!-- ===================== TECH STACK ===================== -->
-<h2>🛠️ Languages & Tools</h2>
+## 👨‍💻 About Me
 
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=html" width="50"/><br/>HTML5
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=css" width="50"/><br/>CSS3
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=js" width="50"/><br/>JavaScript
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=react" width="50"/><br/>React.js
-</td>
-</tr>
+I'm a passionate frontend developer focused on creating beautiful, user-centric web applications. I believe in writing clean, maintainable code and constantly learning new technologies to stay at the forefront of web development.
 
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br/>Next.js
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br/>Tailwind CSS
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=vite" width="50"/><br/>Vite
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=supabase" width="50"/><br/>Supabase
-</td>
-</tr>
+```javascript
+const ibrahim = {
+    location: "Karachi, Pakistan",
+    currentFocus: ["React.js", "Next.js", "Tailwind CSS"],
+    learning: ["Advanced React Patterns", "Performance Optimization"],
+    interests: ["Modern UI/UX", "Responsive Design", "Web Performance"],
+    availableFor: "Freelance Projects & Collaborations"
+};
+```
 
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=firebase" width="50"/><br/>Firebase
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=git" width="50"/><br/>Git
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=github" width="50"/><br/>GitHub
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=vercel" width="50"/><br/>Vercel
-</td>
-</tr>
-</table>
+- 🎯 Specializing in **React.js** ecosystem and modern frontend architecture
+- 🌱 Currently mastering **Next.js 14**, **TypeScript**, and **Advanced React Patterns**
+- 💼 Open to collaborating on innovative web projects
+- 📧 Reach me at **ibrahimayub2418@gmail.com**
 
+---
 
-<!-- ===================== GITHUB STATS ===================== -->
-<h2>📊 GitHub Stats</h2>
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MDIbrahimAyub&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDIbrahimAyub&layout=compact&theme=radical&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=MDIbrahimAyub&theme=radical&hide_border=true" />
-</p>
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-<hr/>
+### Styling & UI
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-<!-- ===================== TROPHIES ===================== -->
-<h2>🏆 GitHub Trophies</h2>
+### Tools & Platforms
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MDIbrahimAyub&theme=radical&no-frame=true&row=1&column=6" />
-</p>
+### Backend & Database
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-<hr/>
+</div>
 
-<!-- ===================== SOCIAL LINKS ===================== -->
-<h2>🤝 Connect With Me</h2>
+---
 
-<table>
-<tr>
-<td align="center" width="150">
-<a href="https://www.linkedin.com/in/muhammad-ibrahim-ayub/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/><br/>
-</a>
-</td>
+## 📊 GitHub Analytics
 
-<td align="center" width="150">
-<a href="https://www.instagram.com/ibr_ahim_54/">
-<img src="https://skillicons.dev/icons?i=instagram" width="45"/><br/>
-</a>
-</td>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MDIbrahimAyub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDIbrahimAyub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6"/>
+</div>
 
-<td align="center" width="150">
-<a href="mailto:ibrahimayub2418@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/><br/>
-</a>
-</td>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MDIbrahimAyub&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+</div>
 
-<td align="center" width="150">
-<a href="https://www.facebook.com/profile.php?id=100077727872198">
-<img src="https://img.icons8.com/color/48/facebook-new.png" width="45"/><br/>
-</a>
-</td>
-</tr>
-</table>
+---
 
-<hr/>
+## 🏆 GitHub Achievements
 
-<!-- ===================== FOOTER ===================== -->
-<p align="center">
-  ⭐ Built with passion by <strong>Muhammad Ibrahim</strong>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MDIbrahimAyub&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDIbrahimAyub&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ibrahim-ayub/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ibr_ahim_54/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimayub2418@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100077727872198)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/MDIbrahimAyub)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+**⭐ Feel free to explore my repositories and don't forget to star the ones you find interesting!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+</div>
